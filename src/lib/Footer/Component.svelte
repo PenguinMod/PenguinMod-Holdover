@@ -38,7 +38,7 @@
 <div class="links">
     <a
         target="_blank"
-        href="https://github.com/PenguinMod/PenguinMod-ExtensionsGallery"
+        href="https://github.com/PenguinMod/PenguinMod-Home"
     >
         GitHub
     </a>
